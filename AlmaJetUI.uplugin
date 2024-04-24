@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "AlmaJetUI",
+	"Description": "A collection of C++ UI classes and UI Components",
+	"Category": "Other",
+	"CreatedBy": "AlmaJet Game Studio",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "AlmaJetUI",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
